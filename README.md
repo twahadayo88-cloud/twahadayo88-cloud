@@ -13,14 +13,11 @@ Building scalable, responsive and modern web applications using React.js, Next.j
 
 
 ## 💫 About Me
-
-- **Professional & Clear:**  
+ 
   I am a final-year Computer Science student with hands-on experience in building modern, scalable, and responsive web applications. I specialize in developing intuitive user interfaces with **React.js** and **Next.js** while also building secure backend services using **Node.js**, **Express.js**, and **MongoDB**. Passionate about software engineering, I enjoy solving real-world problems through clean architecture, efficient code, and user-focused design.
 
-- **Friendly & Approachable:**  
   As a passionate Computer Science student, I enjoy exploring modern frontend technologies, software engineering principles, and full-stack development. I love transforming ideas into responsive, user-friendly applications while continuously learning new technologies and collaborating on meaningful projects.
 
-- **Simple & Direct:**  
   Computer Science student and MERN Stack Developer specializing in **React.js**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**, with a strong interest in building scalable and high-performance web applications.
 
 ---
